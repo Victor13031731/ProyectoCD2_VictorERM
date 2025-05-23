@@ -1,0 +1,23 @@
+# Entornos virtuales
+env/
+.venv/
+ENV/
+env.bak/
+venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Datos sensibles o de prueba
+#*.json
+#data/
+
+# Configuraciones personales de VSCode
+.vscode/
+
+# Archivos de Colab
+drive/
